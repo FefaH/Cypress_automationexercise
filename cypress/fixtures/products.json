@@ -1,0 +1,37 @@
+[
+  {
+     "color":"red dress - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non neque sit amet dolor lobortis volutpat vel ac felis.",
+     "value":"#f00",
+     "id": 0
+  },
+  {
+     "color":"green dress - In auctor venenatis nulla, vel porttitor urna maximus suscipit. Sed vitae tortor lorem.",
+     "value":"#0f0",
+     "id": 1
+  },
+  {
+     "color":"blue dress - Sed accumsan ultricies augue, in facilisis orci commodo nec. Etiam sapien nisl, efficitur et feugiat et, venenatis non metus.",
+     "value":"#00f",
+     "id": 2
+  },
+  {
+     "color":"cyan dress - Integer congue malesuada ipsum, id egestas sapien maximus at. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+     "value":"#0ff",
+     "id": 3
+  },
+  {
+     "color":"magenta dress - Mauris venenatis a erat eu hendrerit. Nunc iaculis, arcu nec ornare auctor, orci augue semper est, nec iaculis ex lacus vel sapien.",
+     "value":"#f0f",
+     "id": 4
+  },
+  {
+     "color":"yellow dress - Nulla facilisi. Nulla fringilla efficitur sapien ut aliquam. Pellentesque quis posuere turpis, vitae lacinia nibh.",
+     "value":"#ff0",
+     "id": 5
+  },
+  {
+     "color":"black dress - Duis vitae vehicula sem. Donec interdum volutpat nisi, eget molestie enim iaculis eu. Pellentesque sed ipsum cursus, fermentum mauris ut, porta sem.",
+     "value":"#000",
+     "id": 6
+  }
+]

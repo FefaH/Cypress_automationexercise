@@ -1,0 +1,21 @@
+{
+  "name": "automation-practice",
+  "version": "1.0.0",
+  "description": "automation cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cross-env cypress open",
+    "cy:run": "cross-env cypress run"
+  },
+  "keywords": [
+    "automation",
+    "cypress",
+    "web"
+  ],
+  "author": "Fefa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
